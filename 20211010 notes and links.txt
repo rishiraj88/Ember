@@ -1,5 +1,5 @@
-# You're Welcome to My Shop - RRShop
-Well functional online shopping site with cart functionality.
+20211010
+# ember RSShop
 
 ## Versions of Platform Programs
 node -v : v13.14.0
@@ -26,14 +26,4 @@ You can find such shortcuts, through the 'Command Palette' provided in the edito
 93 Beautiful CSS box-shadow examples - CSS Scan
 https://getcssscan.com/css-box-shadow-examples
 
-Ember.js - main page
-https://github.com/emberjs
-
-emberjs/ember.js: Ember.js - A JavaScript framework for creating ambitious web applications
-https://github.com/emberjs/ember.js
-
-emberjs/data: A data persistence library for Ember.js.
-https://github.com/emberjs/data
-
 Thanks! Have a great day ahead!!
-
