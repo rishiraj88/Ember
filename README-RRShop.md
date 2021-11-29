@@ -1,0 +1,39 @@
+# You're Welcome to My Shop - RRShop
+Well functional online shopping site with cart functionality.
+
+## Versions of Platform Programs
+node -v : v13.14.0
+npm -v : 7.21.1
+
+## Acknowledgements
+
+black - beats-pro-over-ear-headphones.jpg (1000×1000)
+https://i.expansys.net/img/b/288570/beats-pro-over-ear-headphones.jpg
+
+pink - 83697969-d990-4ed4-a4ad-13e1e5c16efe.3b283231eff0c09cf610b28d6d01641a.jpeg (900×900)
+https://i5.walmartimages.com/asr/83697969-d990-4ed4-a4ad-13e1e5c16efe.3b283231eff0c09cf610b28d6d01641a.jpeg
+
+red - freebies2deals-beats-studio.jpg (1414×1500)
+https://freebies2deals.com/wp-content/uploads/2012/11/freebies2deals-beats-studio.jpg
+
+https://stackoverflow.com/questions/29973357/how-do-you-format-code-in-visual-studio-code-vscode
+The code formatting is available in Visual Studio Code through the following shortcuts:
+    On Windows Shift + Alt + F
+    On Mac Shift + Option + F
+    On Linux Ctrl + Shift + I
+You can find such shortcuts, through the 'Command Palette' provided in the editor with Ctrl + Shift+ P in VC Code.
+
+93 Beautiful CSS box-shadow examples - CSS Scan
+https://getcssscan.com/css-box-shadow-examples
+
+Ember.js - main page
+https://github.com/emberjs
+
+emberjs/ember.js: Ember.js - A JavaScript framework for creating ambitious web applications
+https://github.com/emberjs/ember.js
+
+emberjs/data: A data persistence library for Ember.js.
+https://github.com/emberjs/data
+
+Thanks! Have a great day ahead!!
+
