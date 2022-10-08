@@ -1,9 +1,6 @@
-# RR Shopware
-Visit us at:
-Will add public URL soon.
+# Modern JavaScript and Ember Projects
 
-Until then, you may deploy on your own local environment and test.
-
+You may deploy these projects in your own local environment or in Docker containers and test.
 
 ## RR Shopware site built with:
 - Ember.js
