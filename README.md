@@ -1,8 +1,11 @@
-# Modern JavaScript and Ember Projects
+# Modern JavaScript and Ember Project
 
-You may deploy these projects in your own local environment or in Docker containers and test.
+## Project Artifacts
+https://github.com/rishiraj88/myco-questionnaire
 
-## RR Shopware site built with:
+You may deploy this project in your own local environment or in a Docker container and test.
+
+## Insurance Signup Questionnaire app built with:
 - Ember.js
 - Modern JavaScript / ECMAScript (ES6+)
 - CSS
@@ -10,7 +13,7 @@ You may deploy these projects in your own local environment or in Docker contain
 - Bootstrap
 - Fonts
 
-## Questionnaire wizard with functionalities:
+## The Questionnaire wizard has functionalities:
 - Navbar and Header title
 - Welcome page
 - Footer
